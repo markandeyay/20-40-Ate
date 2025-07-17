@@ -1,10 +1,10 @@
-# 20-40-Ate 🎮
+# 20-40-Ate
 
 A hybrid Python game combining the mechanics of **2048** and **Snake**, built with Pygame.
 
 Created by **Markandeya Yalamanchi**
 
-## 🕹️ How to Play
+## How to Play
 
 - Move using arrow keys
 - Eat number tiles to grow your snake
@@ -13,7 +13,7 @@ Created by **Markandeya Yalamanchi**
 - Avoid crashing into yourself or the walls
 - Pause to access reset, music toggle, or return to main menu
 
-## 🔧 Controls
+## Controls
 
 | Key        | Action              |
 |------------|---------------------|
@@ -22,12 +22,12 @@ Created by **Markandeya Yalamanchi**
 | `R`        | Restart             |
 | Mouse      | Click menu buttons  |
 
-## 🎵 Music
+## Music
 
 - Title and Game music are different
 - Toggle music from the title or pause menu
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install Requirements
 
